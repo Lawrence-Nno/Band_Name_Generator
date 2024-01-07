@@ -11,6 +11,8 @@ Band Name Generator is a fun project I coded when i was initially learning pytho
 - [Python] - This script requires only python to run
 
 
+## Author ✒️
+* Lawrence Nno <lawrence.nno@gmail.com>
 
 
 ## License
